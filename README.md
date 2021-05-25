@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=4E4E4E&text=gisung's%GitHub&fontColor=668EFD)
+![header](https://capsule-render.vercel.app/api?type=waving&color=668EFD&text=gisung's%20GitHub&fontColor=4E4E4E)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisungPark&hide=prs)
 
